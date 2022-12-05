@@ -23,7 +23,7 @@
   "feature.more.title": "...And More To Come",
   "feature.more.desc": "We are always actively on the lookout for new features to implement that would assist in moderation! Be sure to join our support server so you can get help with using the bot and submit feature requests or bug reports!",
   "footer.notice": "Server Guard is not endorsed or created by Guilded",
-  "footer.copyright": "<a href=\"https://reapimus.com\">Reapimus</a> {YEAR}",
+  "footer.copyright": "© <a href=\"https://reapimus.com\">Reapimus</a> {YEAR}",
   "legal.privacy": "PRIVACY POLICY",
   "legal.privacy.important": "Your privacy is important to Server Guard, and we take appropriate measures to protect your privacy while using our services.",
   "legal.privacy.identifier": "When your account is being verified with Server Guard, some information may be shared with the staff members of the servers using Server Guard. This includes, but is not limited to:<br>• The username on the service(s) you used to verify your account<br>• Metrics about the accounts from the service(s) you used to verify your account, these can include but are not limited to, the age of the account, or the amount of tweets you have posted.<br>• Connection information, indicating whether you used a VPN when you verified with Server Guard.",
