@@ -62,7 +62,7 @@
   "verify.message.intro": "Welcome to {server}! This server is protected by Server Guard, please verify with us by clicking the button below.",
   "verify.message.success": "Thanks for verifying, you can now enter the server!",
   "verify.button": "Verify",
-  "verify.failure.with_contact": "{message}<br><br>If you believe this was in error, contact a staff member via <a href="{admin_contact}">this url.</a>",
+  "verify.failure.with_contact": "{message}<br><br>If you believe this was in error, contact a staff member via <a href=\"{admin_contact}\">this url.</a>",
   "verify.500": "[500] Failed to verify due to a server error, if you continue receiving this message please report it in our <a href=\"https://serverguard.xyz/support\">Support Server</a>",
   "verify.403.Dangerous IP address identified by Advanced Proxy Check": "Dangerous IP address identified by Advanced Proxy Check",
   "verify.403.You are verifying too often in this server.": "You are verifying too often in this server.",
@@ -73,6 +73,6 @@
   "verify.400.Verification code expired, please generate a new one using /verify": "Verification code expired, please generate a new one using /verify",
   "verify.400.Invalid verification code, please generate one using /verify": "Invalid verification code, please generate one using /verify",
   "login.waiting": "Waiting for code...",
-  "login.send": "Send this code in <a target="_blank" href=\"https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d-80b9-623a76f8b621/chat\">#Login</a> in our support server to log in!",
+  "login.send": "Send this code in <a target=\"_blank\" href=\"https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d-80b9-623a76f8b621/chat\">#Login</a> in our support server to log in!",
   "login.notice": "Please keep this page open until you have sent the code, it will automatically redirect to the account page once logged in."
 }
