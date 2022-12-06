@@ -62,6 +62,7 @@
   "verify.message.intro": "Welcome to {server}! This server is protected by Server Guard, please verify with us by clicking the button below.",
   "verify.message.success": "Thanks for verifying, you can now enter the server!",
   "verify.button": "Verify",
+  "verify.loading": "Loading...",
   "verify.failure.with_contact": "{message}<br><br>If you believe this was in error, contact a staff member via <a href=\"{admin_contact}\">this url.</a>",
   "verify.500": "[500] Failed to verify due to a server error, if you continue receiving this message please report it in our <a href=\"https://serverguard.xyz/support\">Support Server</a>",
   "verify.403.Dangerous IP address identified by Advanced Proxy Check": "Dangerous IP address identified by Advanced Proxy Check",
