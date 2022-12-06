@@ -70,7 +70,7 @@
   "verify.403.Please use a browser to verify with us!": "هذا الخادم يمنع التحقق من عقد الخروج",
   "verify.403.Your account is linked to a previously banned member of this server": "حسابك مرتبط بعضو محظور سابقًا في هذا الخادم",
   "verify.403.Your IP is linked to a previously banned member of this server": "عنوان IP الخاص بك مرتبط بعضو تم حظره مسبقًا في هذا الخادم",
-  "verify.400.Verification code expired, please generate a new one using /verify": "/verify انتهت صلاحية رمز التحقق ، يرجى إنشاء رمز جديد باستخدام,
+  "verify.400.Verification code expired, please generate a new one using /verify": "/verify انتهت صلاحية رمز التحقق ، يرجى إنشاء رمز جديد باستخدام"
   "verify.400.Invalid verification code, please generate one using /verify": "/verify رمز التحقق غير صالح ، يرجى إنشاء واحد باستخدام",
   "login.waiting": "Waiting for code...",
   "login.send": "!في خادم الدعم الخاص بنا لتسجيل الدخول <a target=\"_blank\" href=\"https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d-80b9-623a76f8b621/chat\">#Login</a> أرسل هذا الرمز في !",
