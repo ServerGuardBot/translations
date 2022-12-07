@@ -5,7 +5,7 @@
 "nav.github": "Github",
 "nav.tos": "Servicevoorwaarden",
 "bot.invite": "Uitnodigen",
-"bot.slogan": "Verdedig je <a href=\"https://guild.gg\">Guilded</a> servers tegen trollen, ontduikers van de ban en raids!",
+"bot.slogan": "Verdedig je <a href=\"https://guilded.gg\">Guilded</a> servers tegen trollen, ontduikers van de ban en raids!",
 "home.offer": "WAT WIJ BIEDEN",
 "home.trusted": "VERTROUWD DOOR",
 "home.try": "KLAAR OM SERVERGUARD TE PROBEREN?",
@@ -74,6 +74,6 @@
 "verify.400.Bestätigungscode abgelaufen, bitte generieren Sie einen neuen mit /verify": "Bestätigungscode abgelaufen, bitte generieren Sie einen neuen mit /verify",
 "verify.400.Ungültiger Verifizierungscode, bitte generieren Sie einen mit /verify": "Ungültiger Verifizierungscode, bitte generieren Sie einen mit /verify",
 "login.waiting": "Warten auf Code...",
-"login.send": "Sende diesen Code an <a target=\"_blank\" href=\"https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d- 80b9-623a76f8b621/chat\">#Login</a> auf unserem Support-Server, um sich anzumelden!",
+"login.send": "Sende diesen Code an <a target=\"_blank\" href=\"https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d-80b9-623a76f8b621/chat\">#Login</a> auf unserem Support-Server, um sich anzumelden!",
 "login.notice": "Bitte lassen Sie diese Seite geöffnet, bis Sie den Code gesendet haben, er wird automatisch auf die Kontoseite umgeleitet, sobald Sie sich angemeldet haben."
 }
