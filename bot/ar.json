@@ -127,7 +127,7 @@
 	"command.delwarn.success": "تحذير محذوف {id} لـ {username}",
 	"command.delwarn.error": "تحذير بالمعرف {id} للمستخدم {username} غير موجود",
 	"command.delwarn.success.all": "تم مسح كافة التحذيرات بنجاح لـ {username}",
-	"verify.welcome": "مرحبًا {user_mention}! يرجى الرد على هذه الرسالة باستخدام: white_check_mark: لبدء التحقق! \n\n ** إذا كنت غير قادر على إرسال الرسائل هنا أو بعد التحقق ، يرجى محاولة إعادة تحميل عميل Guilded الخاص بك ! ** ",
+	"verify.welcome": "مرحبًا {user_mention}! يرجى الرد على هذه الرسالة باستخدام :white_check_mark: لبدء التحقق! \n\n ** إذا كنت غير قادر على إرسال الرسائل هنا أو بعد التحقق ، يرجى محاولة إعادة تحميل عميل Guilded الخاص بك ! ** ",
 	"embed.welcome": "مرحبًا!",
 	"userinfo.creation": "تم إنشاء الحساب",
 	"userinfo.joined": "تاريخ الانضمام",
