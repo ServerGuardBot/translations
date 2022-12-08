@@ -168,5 +168,11 @@
   "log.nsfw.suggestive": "Suggestive profile picture detection",
   "log.issuer": "Issued By",
   "log.reason": "Reason",
-  "log.lasts": "Lasts"
+  "log.lasts": "Lasts",
+  "help.title": "Commands",
+  "help.links": "Links",
+  "help.info": "Type /help `command` for more info on a command",
+  "category.General": "General",
+  "category.Moderation": "Moderation",
+  "category.Verification": "Verification"
 }
