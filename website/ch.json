@@ -72,7 +72,7 @@
   "verify.403.Your account is linked to a previously banned member of this server": "Your account is linked to a previously banned member of this server",
   "verify.403.Your IP is linked to a previously banned member of this server": "Your IP is linked to a previously banned member of this server",
   "verify.400.Verification code expired, please generate a new one using /verify": "Verify code expired, please generate a new one using /verify",
-  "verify.400.無效驗證碼，請使用/verify生成一個": "無效驗證碼，請使用/verify生成一個",
+  "verify.400.Invalid verification code, please generate one using /verify": "無效驗證碼，請使用/verify生成一個",
   "login.waiting": "等待代碼...",
   "login.send": "在 <a target=\"_blank\" href=\" 中發送此代碼 https://www.guilded.gg/server-guard/groups/D57rgP7z/channels/1f6fae7f-6cdf-403d- 80b9-623a76f8b621/chat\">#Login</a> 在我們的支持服務器上登錄！",
   "login.notice": "請保持此頁面打開，直到您發送代碼，一旦登錄，它將自動重定向到帳戶頁面。"
