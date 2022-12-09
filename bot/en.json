@@ -178,5 +178,6 @@
   "help.info": "Type /help `command` for more info on a command",
   "category.General": "General",
   "category.Moderation": "Moderation",
-  "category.Verification": "Verification"
+  "category.Verification": "Verification",
+  "category.No Category": "No Category"
 }
