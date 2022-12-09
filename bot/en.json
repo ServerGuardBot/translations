@@ -12,6 +12,7 @@
   "command.error.image": "Please provide a valid image URL!",
   "command.error.number": "Please specify a valid number!",
   "command.analytics": "Bot creator-only command that displays bot analytics",
+  "command.reload": "Bot creator-only command to reload the bot",
   "command.support": "Get a link to the support server",
   "command.invite": "Get an invite link for the bot",
   "command.config": "[Administrator] Configure the bot",
