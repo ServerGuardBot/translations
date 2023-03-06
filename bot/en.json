@@ -11,6 +11,7 @@
   "command.error.user": "Please specify a valid user!",
   "command.error.image": "Please provide a valid image URL!",
   "command.error.number": "Please specify a valid number!",
+  "command.giveaway": "[Moderator+] Create or manage giveaways",
   "command.analytics": "Bot creator-only command that displays bot analytics",
   "command.reload": "Bot creator-only command to reload the bot",
   "command.support": "Get a link to the support server",
