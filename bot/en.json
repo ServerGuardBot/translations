@@ -146,6 +146,7 @@
   "command.language": "Set the language the bot will respond in",
   "command.language.success": "Language has been changed",
   "command.language.failure": "Please select a language from this list:",
+  "command.serverinfo": "Get information about the server you are in",
   "verify.welcome": "Welcome {user_mention}! Please react to this message with a :white_check_mark: to start verification!\n\n**If you are unable to send messages here or after verifying, please try reloading your Guilded client!**",
   "embed.welcome": "Welcome!",
   "userinfo.creation": "Account created",
@@ -194,5 +195,12 @@
   "category.General": "General",
   "category.Moderation": "Moderation",
   "category.Verification": "Verification",
-  "category.No Category": "No Category"
+  "category.No Category": "No Category",
+  "serverinfo.about": "About",
+  "serverinfo.owner": "Owner",
+  "serverinfo.members": "Members",
+  "serverinfo.verified": "Verified",
+  "serverinfo.timezone": "Timezone",
+  "serverinfo.created": "Created",
+  "serverinfo.type": "Type"
 }
