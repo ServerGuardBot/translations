@@ -4,6 +4,7 @@
   "link.invite": "Invite",
   "link.docs": "Docs",
   "link": "Link",
+  "bot.prefix_response": "Hey there, <@{member_id}>! The current prefix in this server is `{prefix}`!",
   "bot.server_intro": "Thanks <@{member_id}> for inviting me to **{server_name}!** To learn more about Server Guard use the /help command, or join our support server and look at the Information channel!",
   "giveaway.noid": "Please provide a giveaway ID!",
   "giveaway.missingwinners": "Please provide a valid winners count!",
