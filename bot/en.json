@@ -152,6 +152,7 @@
   "command.purge.results": "Purged {amount} messages out of {total} specified",
   "verify.welcome": "Welcome {user_mention}! Please react to this message with a :white_check_mark: to start verification!\n\n**If you are unable to send messages here or after verifying, please try reloading your Guilded client!**",
   "embed.welcome": "Welcome!",
+  "embed.goodbye": "Goodbye!",
   "userinfo.creation": "Account created",
   "userinfo.joined": "Join Date",
   "userinfo.recent": "Recent",
