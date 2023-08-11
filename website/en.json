@@ -124,5 +124,6 @@
   "activity.action.use_leave": "Changed enable leave message to {value}",
   "activity.action.leave_image": "Changed leave image to {value}",
   "activity.action.leave_message": "Changed leave message to {value}",
-  "activity.action.xp_remove_old": "Changed remove old XP to {value}"
+  "activity.action.xp_remove_old": "Changed remove old XP to {value}",
+  "activity.action.xp_announce_lu": "Changed remove announce level up to {value}"
 }
