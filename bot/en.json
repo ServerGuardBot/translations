@@ -185,6 +185,7 @@
   "filter.malicious_url": "Malicious URL Detected",
   "filter.malicious_url.threat_category": "Threat Category",
   "filter.duplicate_text": "Duplicate text",
+  "filter.api_key": "Leaked API Key",
   "log.certainty": "Certainty: {percentage}%",
   "log.toxicity": "Toxicity Filter Triggered",
   "log.hatespeech": "Hate-Speech Filter Triggered",
