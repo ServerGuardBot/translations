@@ -159,7 +159,7 @@
   "command.serverinfo": "Get information about the server you are in",
   "command.purge": "[Moderator+] Purge up to 50 messages in the current channel",
   "command.purge.results": "Purged {amount} messages out of {total} specified",
-  "verify.welcome": "Welcome {user_mention}! Please click the :white_check_mark: below to start verification!\n\n**If you are unable to send messages here or after verifying, please try reloading your Guilded client!**",
+  "verify.welcome": "Welcome {user_mention}! Please click the :white_check_mark: below to start verification!\n\n*Alternatively, you can use `/verify` if you are having issues.*",
   "embed.welcome": "Welcome!",
   "embed.goodbye": "Goodbye!",
   "userinfo.creation": "Account created",
